@@ -1,0 +1,40 @@
+img {
+border-radius:50%;
+align-self:auto;
+}
+
+body{
+
+    padding: 0px;
+    margin: 0px;
+	text-align: center;
+	color: rgb(255,255,2);
+    background-size: cover;
+    font-size: 20px;
+    font-family: Helvetica Neue;
+    line-height: 1.6em;
+}
+.container
+{
+
+  color: #fff;
+  line-height: 1.6em;
+  
+}
+.showcase{
+	background-image:url('C:/Users/ADMIN/Desktop/HTML/mywebsite/images/showcase.jpg');
+	background-size: cover;
+	color: #fff;
+	
+}
+.showcase ul{
+	list-style: none;
+	padding: 15px;
+}
+.container li{
+	padding: 15px;
+	display:inline;
+}
+.container img{
+	align-items: all;
+}
