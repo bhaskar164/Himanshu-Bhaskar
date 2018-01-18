@@ -1,2 +1,36 @@
-# himanshubhaskar164.git.io
-it is an basic web page created by me with general knowledge of html and css.
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="C:\Users\ADMIN\Desktop\HTML\styles.css">
+	<title>
+		HIMANSHU BHASKAR
+	</title>
+</head>
+<body class="showcase">
+	<br>
+	<br>
+	<br>
+	<img src="E:\moto g2 17\photos\B612_20170220_195749.jpg" height="200" width="200">
+	<br>
+	<div class="container">
+    <h1 style="font-size: 90px"> HELLO THERE!</h1>
+    <p>
+      I am a Computer Science Engineering Student in Delhi, India</p>
+    <footer>
+    <ul>
+
+     <li> <a href="https://www.facebook.com/himanshubhaskar164" target="blank"> <img src="C:\Users\ADMIN\Desktop\HTML\mywebsite\images\fb-art.png" height="50" width="50"> </a> </li>
+     <li>
+      <a href="https://himanshubhaskar164@gmail.com" target="blank"> <img src="C:\Users\ADMIN\Desktop\HTML\mywebsite\images\gmail_logo_PNG1.png" height="50" width="50"> </a></li>
+      <li>
+     <a href="https://www.codechef.com/users/chefbhaskar" target="blank"> <img src="C:\Users\ADMIN\Desktop\HTML\mywebsite\images\chef.jpeg" height="50" width="50"> </a>
+      </li>
+    </ul>
+    <p> Copyright &copy; 2017 ~ HIMANSHU BHASKAR</p>
+
+    </footer>
+</div>
+</body>
+
+</html>
+<>
